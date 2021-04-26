@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋, I'm Kerem Karataş
+I am a computer engineering student at Kocaeli University in Turkey.
+* 📫 How to reach me [karatas.kerem@outlook.com.tr](karatas.kerem@outlook.com.tr)
+* 🌱 I’m currently learning Java Spring-Boot
+## ⚡ Interests
+* Web Development
 
-<!--
-**keremkaratass/keremkaratass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+ 
+
+
+
