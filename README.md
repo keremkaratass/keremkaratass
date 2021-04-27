@@ -7,10 +7,7 @@ I am a computer engineering student at Kocaeli University in Turkey.
 
 
 
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaratass&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
