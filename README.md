@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kerem Karataş
 I am a computer engineering student at Kocaeli University in Turkey.
-* 📫 How to reach me [karatas.kerem@outlook.com.tr](karatas.kerem@outlook.com.tr)
+* 📫 How to reach me [karatas.kerem@outlook.com.tr](https://outlook.live.com/mail/0/inbox)
 * 🌱 I am currently learning Java Spring-Boot, JavaScript and React.js.
 ## ⚡ Interests
 * Web Development
