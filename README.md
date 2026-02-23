@@ -1,15 +1,63 @@
-<h1 align="center">Hi 👋, I'm Kerem</h1>
-<h3 align="center">A passionate backend developer from Istanbul</h3>
+# Kerem Karataş
 
-- 🌱 I’m currently learning **java spring boot**
+Backend Engineer | Scalable Systems | Business-Aware Software Development
 
-- 💬 Ask me about **java, spring boot, linux and anything :)**
+---
 
-- 📫 How to reach me **karatas.kerem@outlook.com.tr**
+## 🧠 Engineering Perspective
 
-- ⚡ Interests and abilities **computer science, web technologies, football, basketball, theatre, poem**
+I build backend systems with a strong focus on:
 
+- Clean Code, SOLID Principles & Design Patterns
+- System Design & Scalable Architectures
+- Distributed Systems & Data Consistency
+- Transaction-heavy system reliability
+- Understanding business rules before implementation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>   </a>   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   </p>
+I believe good engineering sits at the intersection of **software craftsmanship, system thinking and business domain awareness**.
 
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java 17
+- Spring Boot
+- C# / .NET
+- RESTful APIs
+- Microservices Architecture
+
+### Data & Messaging
+- PostgreSQL
+- Oracle
+- MSSQL
+- MongoDB
+- Kafka
+
+### DevOps & Cloud
+- Docker
+- Jenkins
+- AWS
+- Azure
+- Linux
+
+### Workflow & Collaboration
+- Git
+- Bitbucket
+- Jira
+- Confluence
+
+---
+
+## 🚀 Professional Approach
+
+- Writing maintainable and testable code
+- Designing systems with both technical scalability and business correctness in mind
+- Thinking in terms of long-term architecture rather than short-term fixes
+- Learning deeply from technical books
+
+---
+
+## 📫 Contact
+
+- Email: karatas.kerem@outlook.com.tr
